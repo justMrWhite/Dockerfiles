@@ -14,7 +14,7 @@ docker image build -t figleto .
 Easy breezy.
 
 ```docker
-docker container run figleto figlet hello
+docker container run figleto figlet yourtext
 ```
 ## Is that it?
 Yes, that's it. \
