@@ -1,6 +1,6 @@
 # What is this?
 Some Dockerfiles I like to be silly with mostly (practicing). \
-A few of them I hope will be useful to you, of course, as this grows.\
+A few of them I hope will be useful to you, of course, as this grows.
 
 ## Can I contribute?
 Of course!\
